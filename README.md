@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩🏽‍💻 Desenvolvedor Web Full Stack
-- 🌱 Atualmente estou estudando Java
+- 🌱 Atualmente estou estudando Design Patterns
 
 ![Renan Giareta's GitHub stats](https://github-readme-stats.vercel.app/api?username=renangiaretta&show_icons=true&theme=dark)
 
