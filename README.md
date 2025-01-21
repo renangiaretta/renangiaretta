@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ##
 
 ### Sobre mim!😉
-<p size="16px" align="justify"><b>Sou formado em Desenvolvimento Web Full Stack, pela Kenzie Academy Brasil. Também faço curso superior em Análise e Desenvolvimento de Sistemas na Universidade de Marília, com previsão de formatura para 2024.</p>  
+<p size="16px" align="justify"><b>Sou formado em Desenvolvimento Web Full Stack, pela Kenzie Academy Brasil. Também faço curso superior em Análise e Desenvolvimento de Sistemas na Universidade de Marília, com previsão de formatura para 2025.</p>  
   
 ##
 
